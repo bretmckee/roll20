@@ -1,0 +1,16 @@
+&{template:default} {{name=Animate Objects}} {{Object Size=?{Size|Tiny, [Tiny](-2)|Small, [Small](0)|Medium, [Medium](1)|Large, [Large](2)|Huge, [Huge](4)}
+}} {{Attack #[1](#)=[[ ?{Roll|Normal, 1d20|Advantage, 2d20kh1|Disadvantage, 2d20kl1} + [[abs(?{Size} - 1) + 5]] ]]
+}} {{Attack #[[[{?{Number of attacks|14|13|12|11|10|9|8|7|6|5|4|3|2|1}, 2}kl1]]](#)=[[ ?{Roll} + [[abs(?{Size} - 1) + 5]] ]]
+}} {{Attack #[[[{?{Number of attacks}, 3}kl1]]](#)=[[ ?{Roll} + [[abs(?{Size} - 1) + 5]] ]]
+}} {{Attack #[[[{?{Number of attacks}, 4}kl1]]](#)=[[ ?{Roll} + [[abs(?{Size} - 1) + 5]] ]]
+}} {{Attack #[[[{?{Number of attacks}, 5}kl1]]](#)=[[ ?{Roll} + [[abs(?{Size} - 1) + 5]] ]]
+}} {{Attack #[[[{?{Number of attacks}, 6}kl1]]](#)=[[ ?{Roll} + [[abs(?{Size} - 1) + 5]] ]]
+}} {{Attack #[[[{?{Number of attacks}, 7}kl1]]](#)=[[ ?{Roll} + [[abs(?{Size} - 1) + 5]] ]]
+}} {{Attack #[[[{?{Number of attacks}, 8}kl1]]](#)=[[ ?{Roll} + [[abs(?{Size} - 1) + 5]] ]]
+}} {{Attack #[[[{?{Number of attacks}, 9}kl1]]](#)=[[ ?{Roll} + [[abs(?{Size} - 1) + 5]] ]]
+}} {{Attack #[[[{?{Number of attacks}, 10}kl1]]](#)=[[ ?{Roll} + [[abs(?{Size} - 1) + 5]] ]]
+}} {{Attack #[[[{?{Number of attacks}, 11}kl1]]](#)=[[ ?{Roll} + [[abs(?{Size} - 1) + 5]] ]]
+}} {{Attack #[[[{?{Number of attacks}, 12}kl1]]](#)=[[ ?{Roll} + [[abs(?{Size} - 1) + 5]] ]]
+}} {{Attack #[[[{?{Number of attacks}, 13}kl1]]](#)=[[ ?{Roll} + [[abs(?{Size} - 1) + 5]] ]]
+}} {{Attack #[[[{?{Number of attacks}, 14}kl1]]](#)=[[ ?{Roll} + [[abs(?{Size} - 1) + 5]] ]]
+}}
