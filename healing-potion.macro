@@ -1,0 +1,5 @@
+elected|wtype}&{template:atkdmg} {{damage=1}} {{dmg1flag=1}} ?{Healing Potion Variety?| Standard (2d4+2), {{rname=Standard Healing Potion
+(2d4+2)&#125;&#125; {{dmg1=[[2d4+2]]&#125;&#125; |Greater (4d4+4), {{rname=Greater Healing Potion
+(4d4+4)&#125;&#125; {{dmg1=[[4d4+4]]&#125;&#125; |Superior (8d4+8), {{rname=Superior Healing Potion
+(8d4+8)&#125;&#125; {{dmg1=[[8d4+8]]&#125;&#125; |Supreme (10d4+20),{{rname=Supreme Healing Potion
+(10d4+20)&#125;&#125; {{dmg1=[[10d4+20]]&#125;&#125; }
